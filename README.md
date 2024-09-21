@@ -1,6 +1,6 @@
 ### Olá eu sou o Gabriel Mendes Gonçalves 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devgabriel_mendes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mndx.01)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMendes6&show_icons=true&theme=synthwave)
 
