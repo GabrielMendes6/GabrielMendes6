@@ -47,8 +47,12 @@
 ###
 
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielMendes6/GabrielMendes6/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielMendes6/GabrielMendes6/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/GabrielMendes6/GabrielMendes6/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/GabrielMendes6/GabrielMendes6/output/snake.svg" alt="Snake animation" />
 
 ###
 
